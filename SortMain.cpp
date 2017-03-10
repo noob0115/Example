@@ -9,7 +9,7 @@ using namespace std;
 int main(int argc,char *argv[])
 {
     int nFlag = 0;
-    nFlag = atoi(argv{1});
+    nFlag = atoi(argv[1]);
     
     switch nFlag:
         case nSortBubble: 
